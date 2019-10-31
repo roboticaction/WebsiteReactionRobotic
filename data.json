@@ -1,0 +1,16 @@
+{
+    "name": "Reaction",
+    "description": "Reaction",
+    "gmt_offset": 9,
+    "timezone_string": "Asia\/Jakarta",
+    "namespaces": [
+        "oembed\/1.0",
+        "wp\/v2"
+    ],
+    "authentication": [],
+    "_links": {
+        "help": [{
+            "href": "http:\/\/v2.wp-api.org\/"
+        }]
+    }
+}
